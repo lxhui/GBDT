@@ -30,7 +30,6 @@ while (1) {
             break
         } else {
             beta_hat_old = beta_hat_new
-
         }
     }
 }
